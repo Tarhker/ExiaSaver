@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1481477850 source:/home/tarhker/Documents/Program C/exiaSaver/interactif.c
+	<stdio.h>
+	<stdlib.h>
+	"interactif.h"
+
+1481384763 /home/tarhker/Documents/Program C/exiaSaver/interactif.h
+
+1481383079 source:/home/tarhker/Documents/Program C/exiaSaver/main.c
+	<stdio.h>
+	<stdlib.h>
+	"interactif.h"
+
