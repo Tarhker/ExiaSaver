@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1481647956 source:/home/tarhker/Documents/Program C/exiaSaver/interactif.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"interactif.h"
+
+1481647476 /home/tarhker/Documents/Program C/exiaSaver/interactif.h
+
+1481635589 source:/home/tarhker/Documents/Program C/exiaSaver/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481643375 source:/home/tarhker/Documents/Program C/exiaSaver/statique.c
+	<stdio.h>
+	<stdlib.h>
+	"interactif.h"
+	"statique.h"
+
+1481635818 /home/tarhker/Documents/Program C/exiaSaver/statique.h
+
+1481647652 source:/home/tarhker/Documents/Program C/exiaSaver/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1481635376 /home/tarhker/Documents/Program C/exiaSaver/menu.h
+
+1481667350 source:/home/tarhker/Documents/Program C/exiaSaver/dynamique.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"interactif.h"
+
+1481726351 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion/dynamique.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"interactif.h"
+	"historique.h"
+
+1481753256 /home/tarhker/Documents/Program C/exiaSaverLastVersion/interactif.h
+
+1481671903 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481760765 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1481635376 /home/tarhker/Documents/Program C/exiaSaverLastVersion/menu.h
+
+1481761020 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion/statique.c
+	<stdio.h>
+	<stdlib.h>
+	"interactif.h"
+	"statique.h"
+
+1481731391 /home/tarhker/Documents/Program C/exiaSaverLastVersion/statique.h
+
+1481754710 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion/interactif.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<termios.h>
+	"interactif.h"
+
+1481714640 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion/historique.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"historique.h"
+
+1481714646 /home/tarhker/Documents/Program C/exiaSaverLastVersion/historique.h
+
+1481848259 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/dynamique.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"interactif.h"
+	"historique.h"
+
+1481848088 /home/tarhker/Documents/Program C/exiaSaverLastVersion1512/interactif.h
+
+1481714646 /home/tarhker/Documents/Program C/exiaSaverLastVersion1512/historique.h
+
+1481855558 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/historique.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"historique.h"
+
+1481848049 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/interactif.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"interactif.h"
+
+1481853902 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481855829 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1481635376 /home/tarhker/Documents/Program C/exiaSaverLastVersion1512/menu.h
+
+1481855856 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/statique.c
+	<stdio.h>
+	<stdlib.h>
+	"interactif.h"
+	"statique.h"
+
+1481850918 /home/tarhker/Documents/Program C/exiaSaverLastVersion1512/statique.h
+
+1481853415 source:/home/tarhker/Documents/Program C/exiaSaverLastVersion1512/statistique.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"statique.h"
+	"statistique.h"
+
+1481853350 /home/tarhker/Documents/Program C/exiaSaverLastVersion1512/statistique.h
+
